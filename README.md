@@ -5,7 +5,7 @@ In this report, we propose a Convolutional Neural Network(CNN) for traffic sign 
 
 ## CNN Model
 
-![CNN Model](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fmax%2F2000%2F1*lXdNveKOPqjTfnRXfQlNRA.png&imgrefurl=https%3A%2F%2Ftowardsdatascience.com%2Frecognizing-traffic-signs-with-over-98-accuracy-using-deep-learning-86737aedc2ab&tbnid=ECnhkcDgix27RM&vet=12ahUKEwjR4Ijl1M7xAhVUn0sFHdK9B1YQMygkegUIARD6AQ..i&docid=F2M1wBGkK6MZpM&w=1462&h=459&q=convolutional%20neural%20network%20traffic%20sign%20recognition%20120&ved=2ahUKEwjR4Ijl1M7xAhVUn0sFHdK9B1YQMygkegUIARD6AQ)
+![CNN Model](https://miro.medium.com/max/2000/1*lXdNveKOPqjTfnRXfQlNRA.png)
 
   
 ## Authors
