@@ -8,7 +8,7 @@ In this report, we propose a Convolutional Neural Network(CNN) for traffic sign 
 ![CNN Model](https://miro.medium.com/max/2000/1*lXdNveKOPqjTfnRXfQlNRA.png)
 
   
-## Authors
+## Contributors 
 
 - [@TirthShah](https://www.github.com/tirth2212)
 - [@Vidhayini](https://www.github.com/vidhayini)
