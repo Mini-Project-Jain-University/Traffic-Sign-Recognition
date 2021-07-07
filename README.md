@@ -32,7 +32,7 @@ Link to the video of Front-end: https://youtu.be/iNIGG2xzUZA
   
 ## Environment Variables
 
-To run this project, you will need to add the following libraries to you venv:-
+To run this project, you will need to add the following libraries to your venv:-
 
 `openCV`
 `numpy`
