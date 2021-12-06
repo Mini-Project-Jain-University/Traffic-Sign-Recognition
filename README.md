@@ -50,7 +50,7 @@ To run this project, you will need to add the following libraries to your venv:-
 
 ## Poster
 
-![](https://drive.google.com/file/d/1clOjzEjGTEKFHy6qXu9tmSICgjUUn8l-/view?usp=sharing)
+![Poster](https://github.com/Mini-Project-Jain-University/Traffic-Sign-Recognition/blob/main/Traffic%20Sign%20Recognition.png)
 
 
   
