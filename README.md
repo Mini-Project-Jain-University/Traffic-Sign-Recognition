@@ -50,7 +50,7 @@ To run this project, you will need to add the following libraries to your venv:-
 
 ## Poster
 
-![Poster](https://drive.google.com/file/d/1clOjzEjGTEKFHy6qXu9tmSICgjUUn8l-/view?usp=sharing)
+![](https://drive.google.com/file/d/1clOjzEjGTEKFHy6qXu9tmSICgjUUn8l-/view?usp=sharing)
 
 
   
