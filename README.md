@@ -48,5 +48,9 @@ To run this project, you will need to add the following libraries to your venv:-
 
 [Paper](https://drive.google.com/file/d/1C10Q-j7xY_xvWS1HOjBseLBifBErEx2j/view?usp=sharing)
 
+## Poster
+
+![Poster](https://drive.google.com/file/d/1clOjzEjGTEKFHy6qXu9tmSICgjUUn8l-/view?usp=sharing)
+
 
   
